@@ -2,15 +2,15 @@
 ## Contact Book Console Application
 The application is created using c# languange.
 
-Here are the functionalities of the application.
+**Here are the functionalities of the application.**
 
-**Phone Number** is the **primary key**.
+Primary Key: Phone Number
 
 1. Insert a Contact (First Name, Last Name, Phone Numbers, Email, Address)
    - Phone Number format can be 09123456789 or +639123456789.
    - Email format is test@email.com.
    - All fields are required.
-   - Duplicate entry by primary key (Phone Number).
+   - Duplicate entry by primary key.
 2. Delete a Contact
    - Delete contact by primary key.
 3. Edit a Contact
@@ -34,7 +34,6 @@ Visual Studio 2022 - .NET 6
 3. Open the solution in Visual Studio.
 4. Press F5 to build and run the application. This will restore the NuGet package dependencies and open the console application.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Steps on how to Run the Unit Testing.
 
@@ -43,8 +42,9 @@ Visual Studio 2022 - .NET 6
 <!-- CONTACT -->
 ## Contact
 
-Ernesto M. Cirilo Jr. - rr.cirilo1989@gmail.com
+Ernesto M. Cirilo Jr.
+rr.cirilo1989@gmail.com
+09162902852
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
